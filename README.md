@@ -1,3 +1,16 @@
-![image](https://github.com/user-attachments/assets/5d2920a4-cba7-4c14-b83d-9e158e1d8861)![image](https://github.com/user-attachments/assets/240b422a-fe3d-490c-ad21-b3c03849f8f2)
+# Digital Clock 
 
+A simple digital clock application built using Python's Tkinter library. This application displays the current time, date, and day of the week in a user-friendly graphical interface.
+
+## Features
+
+- Displays current time in HH:MM:SS AM/PM format
+- Shows the current date in DD/Mon/YYYY format
+- Indicates the current day of the week
+- Customizable appearance with different fonts and colors
+
+## Requirements
+
+- Python 3.x
+- Tkinter (usually included with Python installations)
  
