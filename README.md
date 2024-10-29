@@ -27,3 +27,7 @@ This code creates a simple digital clock application using Tkinter, a GUI toolki
 
 - Python 3.x
 - Tkinter (included with most Python installations)
+
+## Output
+![image](https://github.com/user-attachments/assets/7249c00e-c38f-4f7d-870b-02ee0d99c529)
+
